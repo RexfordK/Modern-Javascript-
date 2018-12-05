@@ -1,0 +1,19 @@
+{
+  "name": "modern-javascript-",
+  "version": "1.0.0",
+  "description": "Learning mordern javascript syntax and functionality",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RexfordK/Modern-Javascript-.git"
+  },
+  "author": "rex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RexfordK/Modern-Javascript-/issues"
+  },
+  "homepage": "https://github.com/RexfordK/Modern-Javascript-#readme"
+}
